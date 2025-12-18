@@ -1,0 +1,17 @@
+# Dataset: Enfermedades del Cacao
+# Creado automáticamente
+
+# Rutas (relativas a este archivo)
+path: ./data/processed
+train: train/images
+val: val/images
+test: test/images
+
+# Número de clases
+nc: 3
+
+# Nombres de clases
+names:
+  0: Fito
+  1: Monilia
+  2: Sana
